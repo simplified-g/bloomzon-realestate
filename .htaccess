@@ -1,0 +1,38 @@
+# RewriteEngine On
+# RewriteCond %{REQUEST_FILENAME} !-f 
+# #RewriteRule ^([^\.]+)$ $1.php [NC,L]
+# RewriteRule ^news/([0-9]+)/([0-9a-zA-z_-]+) news.php?pid=$1&title=$2 [NC,L]
+# RewriteRule ^uncategorized/([0-9]+)/([0-9a-zA-z_-]+) posts_all.php?pid=$1&title=$2 [NC,L]
+# RewriteRule ^search/([0-9a-zA-z_-]+) search_results.php?t=$1 [NC,L]
+# RewriteCond %{HTTPS} off
+# RewriteCond %{HTTP:X-Forwarded-SSL} !on
+# RewriteCond %{HTTP_HOST} ^gohome\.ng$ [OR]
+# RewriteCond %{HTTP_HOST} ^www\.gohome\.ng$
+# RewriteRule ^(.*)$ "https\:\/\/www\.gohome\.ng\/$1" [R=301,L]
+
+
+# RewriteEngine On
+# RewriteCond %{HTTP_HOST} gohome\.ng [NC]
+# RewriteCond %{SERVER_PORT} 80
+# RewriteRule ^(.*)$ https://gohome.ng/$1 [R,L]
+
+
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f 
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+RewriteRule ^shop/([0-9]+)/([0-9a-zA-z_-]+) shop.php?pid=$1&title=$2 [NC,L]
+RewriteRule ^events/([0-9]+)/([0-9a-zA-z_-]+) events.php?pid=$1&title=$2 [NC,L]
+RewriteRule ^news/([0-9]+)/([0-9a-zA-z_-]+) news.php?pid=$1&title=$2 [NC,L]
+RewriteRule ^uncategorized/([0-9]+)/([0-9a-zA-z_-]+) posts_all.php?pid=$1&title=$2 [NC,L]
+RewriteRule ^search/([0-9a-zA-z_-]+) search_results.php?t=$1 [NC,L]
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP:X-Forwarded-SSL} !on
+RewriteCond %{HTTP_HOST} ^gohome\.ng$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.gohome\.ng$
+RewriteRule ^(.*)$ "https\:\/\/www\.gohome\.ng\/$1" [R=301,L]
+
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST} gohome\.ng [NC]
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://gohome.ng/$1 [R,L]

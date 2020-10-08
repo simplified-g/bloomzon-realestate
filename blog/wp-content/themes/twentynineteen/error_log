@@ -1,0 +1,4 @@
+[01-Jun-2020 08:13:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/gohomeng/public_html/blog/wp-content/themes/twentynineteen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/gohomeng/public_html/blog/wp-content/themes/twentynineteen/functions.php on line 16

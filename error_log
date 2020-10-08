@@ -1,0 +1,77 @@
+[21-Mar-2020 22:56:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/fetch_selected.php on line 25
+[21-Mar-2020 23:00:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/fetch_selected.php on line 25
+[21-Mar-2020 23:01:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/fetch_selected.php on line 25
+[21-Mar-2020 23:01:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/fetch_selected.php on line 10
+[21-Mar-2020 23:02:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/fetch_selected.php on line 10
+[21-Mar-2020 23:02:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/fetch_selected.php on line 10
+[21-Mar-2020 23:03:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/fetch_selected.php on line 10
+[21-Mar-2020 23:03:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/fetch_selected.php on line 10
+[21-Mar-2020 23:06:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/fetch_selected.php on line 11
+[21-Mar-2020 23:07:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/fetch_selected.php on line 11
+[25-Mar-2020 01:35:34 Africa/Lagos] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/gohomeng/public_html/ems-incs/igbe.inc.php on line 10
+[25-Mar-2020 01:35:34 Africa/Lagos] PHP Warning:  mysqli::__construct(): (08004/1040): Too many connections in /home/gohomeng/public_html/ems-incs/emslib.inc.php on line 25
+[25-Mar-2020 01:35:34 Africa/Lagos] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/gohomeng/public_html/ems-incs/emslib.inc.php on line 201
+[25-Mar-2020 01:35:34 Africa/Lagos] PHP Warning:  emslib::get_this_data(): Couldn't fetch mysqli in /home/gohomeng/public_html/ems-incs/emslib.inc.php on line 203
+[17-Apr-2020 16:58:34 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /home/gohomeng/public_html/proadded.php on line 63
+[17-Apr-2020 18:01:03 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gohomeng/public_html/ems-incs/header.inc.php:71) in /home/gohomeng/public_html/add-property.php on line 22
+[17-Apr-2020 18:08:04 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/gohomeng/public_html/ems-incs/header.inc.php:71) in /home/gohomeng/public_html/add-property.php on line 24
+[26-Jun-2020 17:54:44 America/New_York] PHP Parse error:  syntax error, unexpected 'Properties' (T_STRING) in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php on line 2096
+[09-Jul-2020 08:46:56 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php on line 1631
+[09-Jul-2020 08:46:56 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php on line 1631
+[09-Jul-2020 08:47:04 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php on line 1631
+[09-Jul-2020 08:47:04 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php on line 1631
+[09-Jul-2020 08:47:06 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php on line 498
+[09-Jul-2020 08:47:06 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php on line 498
+[09-Jul-2020 08:47:16 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php on line 607
+[09-Jul-2020 08:47:28 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php on line 1631
+[09-Jul-2020 08:47:28 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php on line 1631
+[09-Jul-2020 08:47:31 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php on line 498
+[09-Jul-2020 08:47:31 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php on line 498
+[09-Jul-2020 08:47:40 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php on line 1631
+[09-Jul-2020 08:47:40 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php on line 1631
+[09-Jul-2020 08:47:50 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php on line 1631
+[09-Jul-2020 08:47:50 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php on line 1631
+[09-Jul-2020 08:47:54 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php on line 498
+[09-Jul-2020 08:47:54 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php on line 498
+[09-Jul-2020 08:48:17 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/gohomeng/public_html/property-details.php on line 137
+[11-Jul-2020 11:14:13 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php on line 1631
+[11-Jul-2020 11:14:43 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/gohomeng/public_html/property-details.php on line 148
+[15-Jul-2020 06:57:36 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php on line 1631
+[15-Jul-2020 07:00:13 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php on line 1631
+[15-Jul-2020 07:00:56 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php on line 1631
+[15-Jul-2020 07:00:56 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php on line 1871
+[15-Jul-2020 07:01:02 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php on line 1631
+[15-Jul-2020 07:01:16 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php on line 1801
+[15-Jul-2020 07:03:14 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php on line 1631
+[15-Jul-2020 08:13:16 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php on line 1631
+[23-Jul-2020 00:30:53 Africa/Lagos] PHP Warning:  strpos(): Offset not contained in string in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php on line 1342
+[23-Jul-2020 00:31:18 Africa/Lagos] PHP Warning:  strpos(): Offset not contained in string in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php on line 1342
+[23-Jul-2020 00:32:45 Africa/Lagos] PHP Warning:  strpos(): Offset not contained in string in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php on line 1342
+[23-Jul-2020 00:32:45 Africa/Lagos] PHP Warning:  strpos(): Offset not contained in string in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php on line 1342
+[01-Aug-2020 09:59:05 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php on line 1640
+[01-Aug-2020 09:59:16 Africa/Lagos] PHP Warning:  number_format() expects parameter 1 to be float, string given in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php on line 498
+[04-Aug-2020 14:57:01 America/New_York] PHP Warning:  Cookie names must not be empty in /home/gohomeng/public_html/add.php on line 22
+[07-Aug-2020 06:41:44 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php:294
+Stack trace:
+#0 /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php(294): PDOStatement->execute()
+#1 /home/gohomeng/public_html/add-property.php(20): public_lib->insert_property('110', 'omo740eji@gmail...')
+#2 {main}
+  thrown in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php on line 294
+[07-Aug-2020 06:42:06 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php:294
+Stack trace:
+#0 /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php(294): PDOStatement->execute()
+#1 /home/gohomeng/public_html/add-property.php(20): public_lib->insert_property('110', 'omo740eji@gmail...')
+#2 {main}
+  thrown in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php on line 294
+[07-Aug-2020 06:42:41 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php:294
+Stack trace:
+#0 /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php(294): PDOStatement->execute()
+#1 /home/gohomeng/public_html/add-property.php(20): public_lib->insert_property('110', 'omo740eji@gmail...')
+#2 {main}
+  thrown in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php on line 294
+[07-Aug-2020 06:44:35 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php:294
+Stack trace:
+#0 /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php(294): PDOStatement->execute()
+#1 /home/gohomeng/public_html/add-property.php(20): public_lib->insert_property('110', 'omo740eji@gmail...')
+#2 {main}
+  thrown in /home/gohomeng/public_html/ems-incs/ems_public_lib.inc.php on line 294
