@@ -1,0 +1,309 @@
+[19-Feb-2020 13:49:46 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/gohomeng/public_html/api/get_favs_api.php on line 4
+[19-Feb-2020 13:49:46 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/gohomeng/public_html/api/get_favs_api.php on line 4
+[19-Feb-2020 13:49:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/gohomeng/public_html/api/get_favs_api.php on line 5
+[19-Feb-2020 13:49:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/gohomeng/public_html/api/get_favs_api.php on line 14
+[19-Feb-2020 13:54:13 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 13:54:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gohomeng/public_html/api/get_favs_api.php on line 22
+[19-Feb-2020 13:54:13 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 13:54:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gohomeng/public_html/api/get_favs_api.php on line 22
+[19-Feb-2020 13:54:13 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 13:54:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gohomeng/public_html/api/get_favs_api.php on line 22
+[19-Feb-2020 13:54:13 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 13:54:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gohomeng/public_html/api/get_favs_api.php on line 22
+[19-Feb-2020 13:59:52 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 13:59:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gohomeng/public_html/api/get_favs_api.php on line 24
+[19-Feb-2020 13:59:52 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 13:59:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gohomeng/public_html/api/get_favs_api.php on line 24
+[19-Feb-2020 13:59:52 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 13:59:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gohomeng/public_html/api/get_favs_api.php on line 24
+[19-Feb-2020 13:59:52 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 13:59:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gohomeng/public_html/api/get_favs_api.php on line 24
+[19-Feb-2020 14:01:29 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:01:29 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:01:29 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:01:29 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:02:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_favs_api.php on line 14
+[19-Feb-2020 14:11:09 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_favs_api.php on line 14
+[19-Feb-2020 14:14:43 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:14:43 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:14:43 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:14:43 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:18:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_result() in /home/gohomeng/public_html/api/get_favs_api.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gohomeng/public_html/api/get_favs_api.php on line 20
+[19-Feb-2020 14:19:20 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:19:20 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:19:20 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:19:20 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:19:46 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:19:46 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:19:46 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:19:46 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:19:47 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:19:47 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:19:47 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:19:47 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:19:54 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:19:54 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:19:54 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:19:54 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:19:57 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:19:57 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:19:57 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:19:57 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:23:55 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:23:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gohomeng/public_html/api/get_favs_api.php on line 24
+[19-Feb-2020 14:23:55 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:23:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gohomeng/public_html/api/get_favs_api.php on line 24
+[19-Feb-2020 14:23:55 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:23:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gohomeng/public_html/api/get_favs_api.php on line 24
+[19-Feb-2020 14:23:55 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:23:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gohomeng/public_html/api/get_favs_api.php on line 24
+[19-Feb-2020 14:24:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysqli_result() in /home/gohomeng/public_html/api/get_favs_api.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/gohomeng/public_html/api/get_favs_api.php on line 20
+[19-Feb-2020 14:25:08 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:25:08 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:25:08 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:25:08 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:28:06 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/gohomeng/public_html/api/get_favs_api.php on line 83
+[19-Feb-2020 14:28:23 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:28:23 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:28:23 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:28:23 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:29:19 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:29:19 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:29:19 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:29:19 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:34:46 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:34:46 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:34:46 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[19-Feb-2020 14:34:46 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[20-Feb-2020 14:10:40 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/gohomeng/public_html/api/fetch_featured_api.php on line 4
+[20-Feb-2020 14:10:40 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/gohomeng/public_html/api/fetch_featured_api.php on line 4
+[20-Feb-2020 14:10:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/gohomeng/public_html/api/fetch_featured_api.php on line 5
+[20-Feb-2020 14:10:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gohomeng/public_html/api/fetch_featured_api.php on line 13
+[20-Feb-2020 14:10:58 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/gohomeng/public_html/api/fetch_featured_api.php on line 4
+[20-Feb-2020 14:10:58 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/gohomeng/public_html/api/fetch_featured_api.php on line 4
+[20-Feb-2020 14:10:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/gohomeng/public_html/api/fetch_featured_api.php on line 5
+[20-Feb-2020 14:10:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gohomeng/public_html/api/fetch_featured_api.php on line 13
+[20-Feb-2020 14:13:53 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/gohomeng/public_html/api/fetch_featured_api.php on line 4
+[20-Feb-2020 14:13:53 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/gohomeng/public_html/api/fetch_featured_api.php on line 4
+[20-Feb-2020 14:13:53 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/gohomeng/public_html/api/fetch_featured_api.php on line 5
+[20-Feb-2020 14:13:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gohomeng/public_html/api/fetch_featured_api.php on line 13
+[23-Feb-2020 22:10:30 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/gohomeng/public_html/api/get_property_message.php on line 6
+[23-Feb-2020 22:10:30 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/gohomeng/public_html/api/get_property_message.php on line 6
+[23-Feb-2020 22:10:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/gohomeng/public_html/api/get_property_message.php on line 16
+[23-Feb-2020 22:10:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gohomeng/public_html/api/get_property_message.php on line 19
+[23-Feb-2020 22:26:19 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_property_message.php on line 10
+[23-Feb-2020 22:26:19 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_property_message.php on line 10
+[23-Feb-2020 22:26:19 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_property_message.php on line 10
+[23-Feb-2020 22:26:19 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_property_message.php on line 10
+[23-Feb-2020 22:26:19 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_property_message.php on line 10
+[23-Feb-2020 22:26:19 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_property_message.php on line 10
+[23-Feb-2020 22:26:19 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_property_message.php on line 10
+[23-Feb-2020 22:26:19 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_property_message.php on line 10
+[23-Feb-2020 22:26:19 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_property_message.php on line 10
+[23-Feb-2020 22:26:19 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_property_message.php on line 10
+[23-Feb-2020 22:26:19 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_property_message.php on line 10
+[23-Feb-2020 22:26:19 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_property_message.php on line 10
+[23-Feb-2020 22:26:19 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_property_message.php on line 10
+[23-Feb-2020 22:26:19 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_property_message.php on line 10
+[23-Feb-2020 22:26:19 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_property_message.php on line 10
+[23-Feb-2020 22:26:19 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_property_message.php on line 10
+[23-Feb-2020 22:26:19 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_property_message.php on line 10
+[23-Feb-2020 22:26:19 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_property_message.php on line 10
+[23-Feb-2020 22:26:19 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_property_message.php on line 10
+[23-Feb-2020 22:26:19 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_property_message.php on line 10
+[23-Feb-2020 22:26:19 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_property_message.php on line 10
+[23-Feb-2020 22:26:19 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_property_message.php on line 10
+[23-Feb-2020 22:26:19 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_property_message.php on line 10
+[23-Feb-2020 22:26:19 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_property_message.php on line 10
+[25-Feb-2020 04:07:31 UTC] PHP Warning:  mkdir(): No such file or directory in /home/gohomeng/public_html/api/upload_image_api.php on line 13
+[25-Feb-2020 04:07:31 UTC] PHP Warning:  fopen(/home/gohomeng/public_html/api/assets/images/agents/jane@doe.com/wx_camera_1580281839809.jpg): failed to open stream: No such file or directory in /home/gohomeng/public_html/api/upload_image_api.php on line 23
+[25-Feb-2020 04:07:31 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/gohomeng/public_html/api/upload_image_api.php on line 25
+[25-Feb-2020 04:07:31 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/gohomeng/public_html/api/upload_image_api.php on line 27
+[25-Feb-2020 04:14:09 UTC] PHP Warning:  mkdir(): No such file or directory in /home/gohomeng/public_html/api/upload_image_api.php on line 13
+[25-Feb-2020 04:14:09 UTC] PHP Warning:  fopen(/home/gohomeng/public_html/api/assets/images/agents/jane@doe.com/wx_camera_1580281839809.jpg): failed to open stream: No such file or directory in /home/gohomeng/public_html/api/upload_image_api.php on line 23
+[25-Feb-2020 04:14:09 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/gohomeng/public_html/api/upload_image_api.php on line 25
+[25-Feb-2020 04:14:09 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/gohomeng/public_html/api/upload_image_api.php on line 27
+[25-Feb-2020 04:16:06 UTC] PHP Warning:  mkdir(): No such file or directory in /home/gohomeng/public_html/api/upload_image_api.php on line 13
+[25-Feb-2020 04:16:06 UTC] PHP Warning:  fopen(/home/gohomeng/public_html/api/assets/images/agents/jane@doe.com/wx_camera_1580281839809.jpg): failed to open stream: No such file or directory in /home/gohomeng/public_html/api/upload_image_api.php on line 23
+[25-Feb-2020 04:16:06 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/gohomeng/public_html/api/upload_image_api.php on line 25
+[25-Feb-2020 04:16:06 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/gohomeng/public_html/api/upload_image_api.php on line 27
+[25-Feb-2020 04:18:25 UTC] PHP Warning:  mkdir(): No such file or directory in /home/gohomeng/public_html/api/upload_image_api.php on line 13
+[25-Feb-2020 04:18:25 UTC] PHP Warning:  fopen(../assets/images/agents/jane@doe.com/wx_camera_1580281839809.jpg): failed to open stream: No such file or directory in /home/gohomeng/public_html/api/upload_image_api.php on line 23
+[25-Feb-2020 04:18:25 UTC] PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in /home/gohomeng/public_html/api/upload_image_api.php on line 25
+[25-Feb-2020 04:18:25 UTC] PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in /home/gohomeng/public_html/api/upload_image_api.php on line 27
+[04-Mar-2020 05:22:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_single_message.php on line 13
+[04-Mar-2020 05:24:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_single_message.php on line 13
+[04-Mar-2020 05:25:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_single_message.php on line 12
+[04-Mar-2020 05:25:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_single_message.php on line 12
+[04-Mar-2020 05:26:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_single_message.php on line 12
+[04-Mar-2020 05:27:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_single_message.php on line 12
+[04-Mar-2020 05:27:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_single_message.php on line 12
+[04-Mar-2020 05:27:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_single_message.php on line 12
+[04-Mar-2020 05:31:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_single_message.php on line 12
+[04-Mar-2020 05:33:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_single_message.php on line 12
+[04-Mar-2020 05:34:57 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_single_message.php on line 14
+[04-Mar-2020 05:35:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_single_message.php on line 14
+[04-Mar-2020 05:35:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_single_message.php on line 14
+[04-Mar-2020 05:35:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/get_single_message.php on line 14
+[08-Mar-2020 11:47:12 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[08-Mar-2020 11:47:12 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[08-Mar-2020 11:47:12 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[08-Mar-2020 11:47:12 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[08-Mar-2020 11:52:23 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[08-Mar-2020 11:52:23 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[08-Mar-2020 11:52:23 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[08-Mar-2020 11:52:23 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[08-Mar-2020 11:53:53 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[08-Mar-2020 11:53:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gohomeng/public_html/api/get_favs_api.php on line 24
+[08-Mar-2020 11:53:53 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[08-Mar-2020 11:53:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gohomeng/public_html/api/get_favs_api.php on line 24
+[08-Mar-2020 11:53:53 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[08-Mar-2020 11:53:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gohomeng/public_html/api/get_favs_api.php on line 24
+[08-Mar-2020 11:53:53 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/gohomeng/public_html/api/get_favs_api.php on line 18
+[08-Mar-2020 11:53:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gohomeng/public_html/api/get_favs_api.php on line 24
+[10-Mar-2020 14:35:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/on_approved_listener.php on line 27
+[10-Mar-2020 14:36:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/on_approved_listener.php on line 27
+[11-Mar-2020 21:11:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gohomeng/public_html/api/get_latest_property_api.php on line 19
+[11-Mar-2020 21:31:06 UTC] PHP Warning:  include(db.php): failed to open stream: No such file or directory in /home/gohomeng/public_html/api/get_latest_property_api.php on line 4
+[11-Mar-2020 21:31:06 UTC] PHP Warning:  include(): Failed opening 'db.php' for inclusion (include_path='.:/opt/alt/php70/usr/share/pear') in /home/gohomeng/public_html/api/get_latest_property_api.php on line 4
+[11-Mar-2020 21:31:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/gohomeng/public_html/api/get_latest_property_api.php on line 7
+[11-Mar-2020 21:31:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/gohomeng/public_html/api/get_latest_property_api.php on line 24
+[12-Mar-2020 08:15:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[12-Mar-2020 08:15:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[12-Mar-2020 08:15:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[12-Mar-2020 08:15:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[12-Mar-2020 08:15:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[12-Mar-2020 08:15:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[12-Mar-2020 08:15:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[12-Mar-2020 08:15:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[12-Mar-2020 08:15:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[12-Mar-2020 08:15:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[12-Mar-2020 08:15:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[12-Mar-2020 08:15:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[12-Mar-2020 08:16:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[12-Mar-2020 08:16:01 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[12-Mar-2020 08:16:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[12-Mar-2020 08:16:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[12-Mar-2020 08:16:10 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[12-Mar-2020 08:16:10 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[12-Mar-2020 08:16:10 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[12-Mar-2020 08:16:10 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[12-Mar-2020 08:16:11 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[12-Mar-2020 08:16:14 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[12-Mar-2020 08:16:14 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[12-Mar-2020 08:16:15 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[12-Mar-2020 08:16:18 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[12-Mar-2020 08:16:19 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[12-Mar-2020 08:16:21 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[12-Mar-2020 08:16:23 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[12-Mar-2020 08:16:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[12-Mar-2020 08:16:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[12-Mar-2020 08:16:28 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[12-Mar-2020 08:16:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[15-Mar-2020 12:34:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[15-Mar-2020 12:34:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[15-Mar-2020 12:34:24 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[15-Mar-2020 12:34:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[15-Mar-2020 12:34:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[15-Mar-2020 12:34:33 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[15-Mar-2020 12:34:35 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[15-Mar-2020 12:34:35 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[15-Mar-2020 12:34:40 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[15-Mar-2020 12:34:40 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[15-Mar-2020 12:34:43 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[15-Mar-2020 12:34:44 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[15-Mar-2020 12:34:44 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[15-Mar-2020 12:34:49 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[15-Mar-2020 12:34:49 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[15-Mar-2020 12:34:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[15-Mar-2020 12:34:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[15-Mar-2020 12:34:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[15-Mar-2020 12:34:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[15-Mar-2020 12:34:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[16-Mar-2020 10:42:36 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[16-Mar-2020 10:42:36 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[16-Mar-2020 10:42:36 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[16-Mar-2020 10:42:36 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[16-Mar-2020 10:42:36 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[16-Mar-2020 10:42:39 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[16-Mar-2020 10:42:39 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[16-Mar-2020 10:42:46 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[16-Mar-2020 10:42:46 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[16-Mar-2020 10:42:49 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[16-Mar-2020 10:42:49 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[16-Mar-2020 10:42:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[18-Mar-2020 08:23:14 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/gohomeng/public_html/api/create_property_api.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/gohomeng/public_html/api/create_property_api.php on line 4
+[18-Mar-2020 09:27:39 Africa/Lagos] PHP Warning:  mkdir(): No such file or directory in /home/gohomeng/public_html/api/create_property_api.php on line 108
+[18-Mar-2020 09:55:41 Africa/Lagos] PHP Warning:  mkdir(): No such file or directory in /home/gohomeng/public_html/api/create_property_api.php on line 108
+[18-Mar-2020 10:02:26 Africa/Lagos] PHP Warning:  mkdir(): No such file or directory in /home/gohomeng/public_html/api/create_property_api.php on line 108
+[18-Mar-2020 10:17:48 Africa/Lagos] PHP Warning:  mkdir(): No such file or directory in /home/gohomeng/public_html/api/create_property_api.php on line 108
+[18-Mar-2020 10:18:09 Africa/Lagos] PHP Warning:  mkdir(): No such file or directory in /home/gohomeng/public_html/api/create_property_api.php on line 108
+[18-Mar-2020 10:21:17 Africa/Lagos] PHP Warning:  mkdir(): No such file or directory in /home/gohomeng/public_html/api/create_property_api.php on line 108
+[18-Mar-2020 10:22:19 Africa/Lagos] PHP Warning:  mkdir(): No such file or directory in /home/gohomeng/public_html/api/create_property_api.php on line 108
+[18-Mar-2020 11:57:17 Africa/Lagos] PHP Warning:  mkdir(): No such file or directory in /home/gohomeng/public_html/api/upload_property_image_api.php on line 25
+[18-Mar-2020 12:06:35 Africa/Lagos] PHP Catchable fatal error:  Object of class mysqli_stmt could not be converted to string in /home/gohomeng/public_html/api/upload_property_image_api.php on line 40
+[18-Mar-2020 12:16:32 Africa/Lagos] PHP Warning:  move_uploaded_file(assets/upload/10056/10056-color palette 2.png): failed to open stream: No such file or directory in /home/gohomeng/public_html/api/upload_property_image_api.php on line 27
+[18-Mar-2020 12:16:32 Africa/Lagos] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phptvFKXu' to 'assets/upload/10056/10056-color palette 2.png' in /home/gohomeng/public_html/api/upload_property_image_api.php on line 27
+[18-Mar-2020 12:20:18 Africa/Lagos] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/gohomeng/public_html/api/upload_property_image_api.php on line 36
+[18-Mar-2020 12:20:38 Africa/Lagos] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/gohomeng/public_html/api/upload_property_image_api.php on line 36
+[18-Mar-2020 13:24:38 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/ems-incs/igbe.inc.php on line 10
+[18-Mar-2020 13:24:38 Africa/Lagos] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/ems-incs/emslib.inc.php on line 25
+[18-Mar-2020 13:24:38 Africa/Lagos] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/gohomeng/public_html/ems-incs/emslib.inc.php on line 201
+[18-Mar-2020 13:24:38 Africa/Lagos] PHP Warning:  emslib::get_this_data(): Couldn't fetch mysqli in /home/gohomeng/public_html/ems-incs/emslib.inc.php on line 203
+[18-Mar-2020 12:24:39 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[18-Mar-2020 12:24:39 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[18-Mar-2020 12:24:39 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[18-Mar-2020 12:24:44 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[18-Mar-2020 12:24:44 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[18-Mar-2020 12:24:49 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[18-Mar-2020 12:24:49 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[18-Mar-2020 12:24:49 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[18-Mar-2020 12:24:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[18-Mar-2020 12:24:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[18-Mar-2020 12:24:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[18-Mar-2020 12:24:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[18-Mar-2020 12:24:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[18-Mar-2020 12:25:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[18-Mar-2020 12:25:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[18-Mar-2020 12:25:09 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[18-Mar-2020 12:25:09 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[18-Mar-2020 12:25:09 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[19-Mar-2020 16:37:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/search_api.php on line 11
+[19-Mar-2020 16:38:58 UTC] PHP Warning:  mysqli_num_rows() expects exactly 1 parameter, 2 given in /home/gohomeng/public_html/api/search_api.php on line 11
+[19-Mar-2020 16:39:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/search_api.php on line 11
+[19-Mar-2020 16:40:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/search_api.php on line 11
+[19-Mar-2020 16:40:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/search_api.php on line 11
+[19-Mar-2020 16:41:01 UTC] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE) in /home/gohomeng/public_html/api/search_api.php on line 9
+[19-Mar-2020 16:41:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/search_api.php on line 11
+[19-Mar-2020 16:42:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/search_api.php on line 11
+[19-Mar-2020 16:42:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/search_api.php on line 11
+[19-Mar-2020 16:43:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/gohomeng/public_html/api/search_api.php on line 11
+[20-Mar-2020 16:50:04 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'img3' cannot be null in /home/gohomeng/public_html/api/create_property_api.php:126
+Stack trace:
+#0 /home/gohomeng/public_html/api/create_property_api.php(126): PDOStatement->execute()
+#1 {main}
+  thrown in /home/gohomeng/public_html/api/create_property_api.php on line 126
+[20-Mar-2020 16:50:39 Africa/Lagos] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'img3' cannot be null in /home/gohomeng/public_html/api/create_property_api.php:126
+Stack trace:
+#0 /home/gohomeng/public_html/api/create_property_api.php(126): PDOStatement->execute()
+#1 {main}
+  thrown in /home/gohomeng/public_html/api/create_property_api.php on line 126
+[20-Mar-2020 16:51:46 Africa/Lagos] PHP Fatal error:  Uncaught Error: Cannot pass parameter 2 by reference in /home/gohomeng/public_html/api/create_property_api.php:112
+Stack trace:
+#0 {main}
+  thrown in /home/gohomeng/public_html/api/create_property_api.php on line 112
+[21-Mar-2020 10:48:26 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[21-Mar-2020 10:48:31 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[21-Mar-2020 10:48:36 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[21-Mar-2020 10:48:41 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[21-Mar-2020 10:48:46 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
+[21-Mar-2020 10:48:52 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/gohomeng/public_html/db.php on line 9
